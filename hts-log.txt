@@ -1,0 +1,17 @@
+HTTrack3.49-2 launched on Mon, 10 Oct 2022 01:14:07 at https://romantic-talk.br.uptodown.com +*.png +*.gif +*.jpg +*.css +*.jshttps://romantic-talk.br.uptodown.com -ad.doubleclick.net/* -mime:application/foobarhttps://romantic-talk.br.uptodown.com
+(httrack -@i4 -O /storage/emulated/0/HTTrack/Websites/oo -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://romantic-talk.br.uptodown.com +*.png +*.gif +*.jpg +*.css +*.jshttps://romantic-talk.br.uptodown.com -ad.doubleclick.net/* -mime:application/foobarhttps://romantic-talk.br.uptodown.com -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:14:12	Warning: 	Moved Permanently for https://romantic-talk.br.uptodown.com/
+01:14:12	Warning: 	File has moved from https://romantic-talk.br.uptodown.com/ to https://romantic-talk.br.uptodown.com/android
+01:14:20	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/1095784 (from https://romantic-talk.br.uptodown.com/android)
+01:14:23	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/br (from https://romantic-talk.br.uptodown.com/android)
+01:14:23	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/android/1095784 (from https://romantic-talk.br.uptodown.com/android/download)
+01:14:23	Error: 	"Not Found" (404) at link https://romantic-talk.br.uptodown.com/android/br (from https://romantic-talk.br.uptodown.com/android/download)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 seconds : 11 links scanned, 5 files written (197595 bytes overall) [122193 bytes received at 7637 bytes/sec], 197645 bytes transferred using HTTP compression in 6 files, ratio 19%, 2.7 requests per connection
+(4 errors, 2 warnings, 0 messages)
